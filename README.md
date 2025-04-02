@@ -28,18 +28,3 @@ A comprehensive Python-based library management system with features for trackin
   - Categories include Programming, Databases, Data Structures, Networking, and more
   - Multiple copies of popular textbooks
 
-## Requirements
-
-- Python 3.6+
-
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/library-management-system.git
-   cd library-management-system
-   ```
-
-## Usage
-
-Run the main script to start the Library Management System:
